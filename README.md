@@ -20,6 +20,8 @@ in this repo I have written some c code that has an add and sub method and I com
 ### screenshot:
 ![a tirangle rendered with opengl that ran from node js](https://github.com/shoccho/nodeFFI-OpenGL/assets/33720947/7ab5fef4-692d-4c78-bb6b-b59e3bb6328e)
 
+a tirangle rendered with opengl that is actually called from javascript code ran via node
+
 ## LICENSES
 this project uses the following third-party libraries:
 
