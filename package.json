@@ -1,0 +1,16 @@
+{
+  "name": "gears",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "cd myLib && make && cd ../openGL && make",
+    "start": "LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$HOME/Desktop/js/gears node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffi-napi": "^4.0.3"
+  }
+}
