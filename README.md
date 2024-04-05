@@ -17,6 +17,9 @@ in this repo I have written some c code that has an add and sub method and I com
   - run `npm run compile` to compile the c codes into shared objects
   - run `npm run start` to render a window through openGL with glfw and glad
 
+### screenshot:
+![a tirangle rendered with opengl that ran from node js](https://github.com/shoccho/nodeFFI-OpenGL/assets/33720947/7ab5fef4-692d-4c78-bb6b-b59e3bb6328e)
+
 ## LICENSES
 this project uses the following third-party libraries:
 
